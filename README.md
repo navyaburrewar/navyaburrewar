@@ -39,5 +39,7 @@
   <img alt="GitHub Snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
 </picture>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=navyaburrewar&theme=dark)
+
 
 
