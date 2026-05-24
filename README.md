@@ -34,7 +34,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navyaburrewar&" alt="navyaburrewar" /></p>
 
 ![GitHub Snake](https://raw.githubusercontent.com/navyaburrewar/navyaburrewar/output/github-contribution-grid-snake.svg)
 <picture>
@@ -44,6 +43,7 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=navyaburrewar&theme=dark)
+
 
 
 
