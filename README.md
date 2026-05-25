@@ -41,10 +41,10 @@
 </picture>
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Navya-21?theme=dark&font=Karma)
 ![GitHub Streak](https://streak-stats.demolab.com?user=navyaburrewar&theme=dark)
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Navya-21?theme=dark&font=Karma)
 
 
 
