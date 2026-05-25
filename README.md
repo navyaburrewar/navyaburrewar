@@ -45,9 +45,7 @@
 
 <h2 align="center">🧠 LeetCode Stats</h2>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/SadhuAshritha?theme=dark&font=Karma" />
-</p>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Navya-21?theme=dark&font=Karma)
 
 
