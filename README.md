@@ -31,7 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navyaburrewar&show_icons=true&locale=en" alt="navyaburrewar" /></p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/navyaburrewar?theme=dark&font=Karma)
 
 
 
@@ -42,6 +41,7 @@
 </picture>
 
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Navya-21?theme=dark&font=Karma)
 ![GitHub Streak](https://streak-stats.demolab.com?user=navyaburrewar&theme=dark)
 
 
