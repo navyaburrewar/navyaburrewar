@@ -37,8 +37,7 @@
 ![GitHub Snake](https://raw.githubusercontent.com/navyaburrewar/navyaburrewar/output/github-contribution-grid-snake.svg)
 
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=navyaburrewar&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=navyaburrewar&theme=dark)
 
 <h2 align="left">🧠 LeetCode Stats</h2>
 
